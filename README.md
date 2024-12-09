@@ -1,6 +1,6 @@
 # Evotech First Project
 
-## Getting Started Kohomda
+## Getting Started Kohomda Version Controlling..?
 
 First, run the development server:
 
