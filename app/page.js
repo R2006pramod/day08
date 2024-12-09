@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>HI Kohomda Version Controlling</li>
         </ol>
 
         <div className="flex flex-col items-center gap-4 sm:flex-row">
